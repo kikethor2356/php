@@ -1,0 +1,10 @@
+
+{
+"conexion":{
+    "server" : "localhost",
+    "username" : "root",
+    "password" : "",
+    "database" : "api rest",
+    "port" : "3306"
+}
+}
