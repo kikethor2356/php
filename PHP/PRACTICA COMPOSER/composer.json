@@ -1,0 +1,7 @@
+{
+    "name":"JWT/index.php",
+    "require":{
+        "phpmailer/dkimvalidator":""
+    }
+
+}
